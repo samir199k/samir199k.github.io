@@ -1,11 +1,14 @@
-# FLORES HTML Y CSS
--Flower code from: https://codepen.io/Nilver-TI/pen/PoroWJa
+# Kado
+-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
-# Descripción
-El código de la flor sigue la tendencia de TikTok. La página web es totalmente responsiva y puedes ajustar los estilos directamente en el archivo CSS --> style.css
 
-# Autor
-- Flower Code: Md Usman Ansari (@MdUsmanAnsari)
-- Index Code: NILVER TI
+# Description
+Flower code tiktok trend 
 
-Agradecimientos a CodePen y Md Usman Ansari
+Responsive Web -- bisa langsung disesuikan di file css --> style.css
+
+# Author
+- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
+- Index Code : Septian Dwi Cahyo (@Septiandwica)
+
+Thanks to codepan and mdusmanansari
